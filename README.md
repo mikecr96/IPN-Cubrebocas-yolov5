@@ -1,6 +1,6 @@
 # Sistema (o software) para reconocimiento del 'Uso de cubrebocas', 'Uso incorrecto de Cubrebocas' y 'No cubrebocas' en secuencias de video
 
-Breve descripción del proyecto y su propósito.
+El proyecto consiste en desarrollar un sistema (o software) que sea capaz de detectar y clasificar el uso de cubrebocas en personas que aparecen en secuencias de video. El sistema debe identificar tres categorías: 'Uso de cubrebocas', 'Uso incorrecto de cubrebocas' y 'No cubrebocas'. El objetivo es contribuir a la prevención y control de la pandemia de COVID-19, así como a la generación de estadísticas e informes sobre el cumplimiento de las medidas sanitarias. El sistema se basa en técnicas de visión por computadora y aprendizaje automático para procesar las imágenes y extraer las características relevantes para la clasificación.
 
 ## Tabla de Contenidos
 
